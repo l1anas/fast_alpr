@@ -6,6 +6,14 @@
 
 # Установка
 
+Клонировать репозиторий проекта:
+
+```bash
+git clone https://github.com/l1anas/fast_alpr.git
+cd fast_alpr
+```
+Установить зависимости
+
 ```bash
 pip install opencv-python
 ```
